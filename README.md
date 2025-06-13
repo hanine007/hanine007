@@ -18,10 +18,6 @@ I am constantly exploring ways to blend **technology** and **security** to solve
 - **Simulation**: Modeling communication protocols, SeQUeNCe, NS-3, MATLAB
 - **Testing**:  Jest, Postman, JUnit
 
-## Key Projects 📚
-- **Quantum Network Simulation**: Designed and implemented a simulation model to test secure communications in quantum networks.
-- **Apartment Management System**: Developed a full-stack web application for managing apartment rental operations using React, Node.js, and MongoDB.
-- **Embedded IoT Water Level Management System**: Developed a water level monitoring system using **ESP32**, **FreeRTOS**, and a water level sensor. The system displayed real-time water levels on an **LCD** screen and provided automated alerts when critical levels were reached.
 
 ## Leadership & Collaboration 🌟
 - **Teamwork**: Co-authored my thesis with my project partner,  on quantum network simulation.
