@@ -10,7 +10,7 @@ I am constantly exploring ways to blend **technology** and **security** to solve
 
 ## Technical Skills 🛠️
 - **Languages**: JavaScript, Python, C, C++, SQL, Bash
-- **Frameworks & Libraries**: React, Node.js, Express.js, Flask, Tailwind CSS, Mongoose
+- **Frameworks & Libraries**: React, Node.js, Express.js, NestJS,Flask, Tailwind CSS, Mongoose
 - **Tools & Platforms**: Docker, Git, GitHub, Vite, MongoDB, PostgreSQL, Nginx
 - **Embedded Systems**: ARM Cortex-M, Microcontrollers (STM32, Arduino,ESP32), FreeRTOS, Embedded C, UART 
 - **Security**: Cryptography, Quantum Networks, SSL/TLS, OAuth, JWT, VPN,Nmap,Netsus 
